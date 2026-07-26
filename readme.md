@@ -1,6 +1,6 @@
 # My Personal Website
 
-This is a personal portfolio website built as part of the Stardance Hack Club project. The goal of this site is to showcase who I am, what I have worked on, and my interests as a student developer, designer, and aspiring ML engineer.
+This is a personal portfolio website built for Stardance Hack Club project. The goal of this site is to showcase who I am, what I have worked on, and my interests as a student developer, designer, and aspiring ML engineer.
 
 ## About the Project
 
@@ -17,16 +17,7 @@ This website is still in its early stage and will continue to grow as I add more
 
 - HTML
 - CSS
-- Git and GitHub
 
-## Purpose
-
-This project is meant to help me:
-
-- build my online identity
-- share my work with others
-- practice web development
-- contribute to the Stardance Hack Club project
 
 ## Future Plans
 
