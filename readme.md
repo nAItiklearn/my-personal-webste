@@ -1,10 +1,10 @@
 # My Personal Website
 
-This is a personal portfolio website built for Stardance Hack Club project.
+This is a personal portfolio website built for the Stardance Hack Club project. It is now completed and ready to showcase my work.
 
 ## About the Project
 
-This website is still in its early stage and will continue to grow as I add more content, improve the design, and update my projects. Right now, it acts as a simple structure for my online presence.
+This website has been finished and includes my introduction, projects, and contact details in a clean and creative layout.
 
 ## What This Website Includes
 
@@ -18,15 +18,12 @@ This website is still in its early stage and will continue to grow as I add more
 - HTML
 - CSS
 
+## AI Usage
 
-## Future Plans
-
-I plan to keep updating this website by:
-
-- improving the styling and layout
-- adding more sections and animations
-- showcasing more projects
-- making the site more polished and professional
+| Area | Details |
+| --- | --- |
+| Fake terminal box | I used help from AI to design and improve the fake terminal-style box on the homepage. |
+| Overall build support | I also used AI for ideas, wording improvements, and small debugging help while building the website. |
 
 ## Author
 
@@ -34,4 +31,4 @@ Naitik
 
 ## Note
 
-This website is a work in progress and will be updated regularly as I learn and build more.
+The website is now completed and polished for presentation.
