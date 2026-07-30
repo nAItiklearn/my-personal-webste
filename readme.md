@@ -32,3 +32,4 @@ Naitik
 ## Note
 
 The website is now completed and polished for presentation.
+I have fixed the 404 error 4
